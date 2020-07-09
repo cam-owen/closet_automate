@@ -1,4 +1,5 @@
 # ALL CREDIT GOES TO THECOMEUPCODE: https://github.com/TheComeUpCode/WardrobeApp
+# HERE, I AM ADDING A COMPONENT FOR SHOES. HAVE FUN!
 
 import os
 import random
