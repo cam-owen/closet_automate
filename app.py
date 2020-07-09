@@ -1,3 +1,5 @@
+# ALL CREDIT GOES TO THECOMEUPCODE: https://github.com/TheComeUpCode/WardrobeApp
+
 import os
 import random
 
